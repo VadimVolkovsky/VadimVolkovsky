@@ -12,7 +12,3 @@ My contacts:
 
 - Telegram - <a href="https://t.me/vadim_volkovsky" target="_blank">@Vadim_Volkovsky</a> 
 - Instagram - <a href="https://www.instagram.com/vadimych.v.v/" target="_blank">@vadimych.v.v</a>
-
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=VadimVolkovsky)](https://git.io/streak-stats)
