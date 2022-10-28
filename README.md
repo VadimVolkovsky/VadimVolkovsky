@@ -1,10 +1,11 @@
 ### Hi there, I'm Vadim. Python developer.
 
-- My tech stack:
+My tech stack:
 
-Python, Django, PostgreSQL, Gunicorn, Nginx, REST API, Docker, Bootstrap, HTML, Postman, SQLite, MySQL, Redoc, Git, GitHub, unittest
+- Python, Django, PostgreSQL, Gunicorn, Nginx, REST API, Docker, Bootstrap, HTML, Postman, SQLite, MySQL, Redoc, Git, GitHub, unittest
 
 
-- My contacts:
+My contacts:
 
-Telegram - @Vadim_Volkovsky
+- Telegram - @Vadim_Volkovsky
+- Instagram - vadimych v.v.
