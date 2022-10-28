@@ -6,7 +6,7 @@
 My tech stack:
 
 - Python, Django, PostgreSQL, Gunicorn, Nginx, REST API, Docker, Postman
-- Bootstrap, HTML, SQLite, MySQL, Redoc, Git, GitHub, unittest
+- HTML, SQLite, MySQL, Bootstrap, Redoc, Git, GitHub, unittest
 
 My contacts:
 
