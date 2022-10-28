@@ -11,5 +11,5 @@ My tech stack:
 My contacts:
 
 - Telegram - <a href="https://t.me/vadim_volkovsky" target="_blank">@Vadim_Volkovsky</a> 
-- LindekIn - <a href="https://www.linkedin.com/in/vadim-volkovsky/" target="_blank">Vadim Volkovsky</a> 
+- LinkedIn - <a href="https://www.linkedin.com/in/vadim-volkovsky/" target="_blank">Vadim Volkovsky</a> 
 - Instagram - <a href="https://www.instagram.com/vadimych.v.v/" target="_blank">@vadimych.v.v</a>
