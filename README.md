@@ -1,4 +1,7 @@
-### Hi there, I'm Vadim. Python developer.
+<h1 align="center">Hi there, I'm Vadim
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Python developer, graduated from Yandex.Practicum </h3>
+
 
 My tech stack:
 
