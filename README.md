@@ -5,8 +5,9 @@
 
 My tech stack:
 
-- Python, Django, PostgreSQL, Gunicorn, Nginx, REST API, Docker, Postman
-- SQLite, MySQL, HTML, Bootstrap, Redoc, Git, GitHub, unittest
+- Python, Flask, Django, DRF, PostgreSQL, SQLite, REST API, BeautifulSoup4, 
+- Scrapy, aiohttp, asyncio, selenium, SQLAlchemy, Docker, Gunicorn, Nginx, 
+- Bootstrap, HTML, Postman, DBeaver, Redoc, Git, GitHub, unittest, pytest
 
 My contacts:
 
