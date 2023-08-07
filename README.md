@@ -5,9 +5,9 @@
 
 My tech stack:
 
-- Python, Flask, FastAPI, Django, DRF, PostgreSQL, SQLite, BeautifulSoup4, 
-- Scrapy, aiohttp, asyncio, selenium, SQLAlchemy, Docker, Gunicorn, Nginx, 
-- Bootstrap, HTML, Postman, DBeaver, Redoc, Git, GitHub, unittest, pytest
+- Python, Flask, FastAPI, Django, PostgreSQL, SQLite, SQLAlchemy, 
+- Docker, asyncio, REST API, CI/CD, Nginx, unittest, pytest
+- Google Cloud Platform, DBeaver, BeautifulSoup4, HTML, Bootstrap
 
 My contacts:
 
