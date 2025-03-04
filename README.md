@@ -6,7 +6,7 @@
 My tech stack:
 
 - Python, Flask, FastAPI, Django, PostgreSQL, SQLAlchemy, pewee
-- RabbitMQ, Celery, Redis, mongoDB, ELK, Prometheus
+- RabbitMQ, Celery, Redis, mongoDB, ELK, ClickHouse
 - Docker, asyncio, REST API, CI/CD, Nginx, unittest, pytest
 
 My contacts:
